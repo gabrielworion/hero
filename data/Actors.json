@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"jom kinder","characterIndex":0,"characterName":"jom kinder","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"jom kinder","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jom Kinder","nickname":"arcanjo do vento","note":"","profile":"anjo caido, que busca se redimir pelos seus pecados  "},
+{"id":2,"battlerName":"kind mina","characterIndex":0,"characterName":"kind mina","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"kind mina","traits":[],"initialLevel":10,"maxLevel":99,"name":"Kind Mina","nickname":"fada da água","note":"","profile":""},
+{"id":3,"battlerName":"monde gabe","characterIndex":0,"characterName":"monde gabe","classId":2,"equips":[2,1,0,0,0],"faceIndex":0,"faceName":"monde gabe","traits":[],"initialLevel":1,"maxLevel":99,"name":"Monde Gabe","nickname":"nevoa verde","note":"","profile":""},
+{"id":4,"battlerName":"brenda","characterIndex":0,"characterName":"brenda","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"brenda","traits":[],"initialLevel":15,"maxLevel":99,"name":"Brenda","nickname":"anja da guarda","note":"","profile":""}
+]
